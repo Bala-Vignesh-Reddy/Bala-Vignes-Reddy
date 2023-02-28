@@ -140,10 +140,17 @@
 </p>
 
 
-<p>
+<!-- <p>
   <img
     align="left"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=bala-vignesh-reddy&show_icons=true&locale=en&layout=compact"
+    alt="bala-vignesh-reddy"
+  />
+</p> -->
+<p>
+  <img
+    align="left"
+    src="![BalaVignesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=bala-vignesh-reddy&show_icons=true&theme=radical)"
     alt="bala-vignesh-reddy"
   />
 </p>
