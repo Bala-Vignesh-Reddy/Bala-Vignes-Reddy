@@ -154,7 +154,6 @@
     alt="bala-vignesh-reddy"
   />
 </p>
-
 <p>
   <img
     align="center"
