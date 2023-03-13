@@ -143,7 +143,7 @@
 <p>
   <img
     align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=bala-vignesh-reddy&show_icons=true&locale=en&layout=compact"
+    src="https://mygithub-readmestats.vercel.app/api/top-langs?username=bala-vignesh-reddy&show_icons=true&locale=en&layout=compact"
     alt="bala-vignesh-reddy"
   />
 </p>
@@ -159,7 +159,7 @@
 <p>
   &nbsp;<img
     align="center"
-    src="https://github-readme-stats.vercel.app/api?username=bala-vignesh-reddy&show_icons=true&theme=radical"
+    src="https://mygithub-readmestats.vercel.app/api?username=bala-vignesh-reddy&show_icons=true&theme=radical"
     alt="bala-vignesh-reddy"
   />
 </p>
