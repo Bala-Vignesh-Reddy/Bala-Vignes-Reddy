@@ -16,7 +16,7 @@
   /></a>
 </p>
 
-- 🌱 I’m currently learning **nodeJs and ExpressJs**
+- 🌱 I’m currently learning **JavaScript**
 <!-- - 📫 How to reach me
 **reddybalavignesh9979@gmail.com** -->
 
