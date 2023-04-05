@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bala Vignesh Reddy</h1>
+<h1 align="center">Hello 👋, I'm Bala Vignesh Reddy</h1>
 <h3 align="center">A Tech Enthusiast from India</h3>
 
 <!-- <p align="left">
