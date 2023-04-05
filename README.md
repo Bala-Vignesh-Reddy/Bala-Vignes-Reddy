@@ -16,7 +16,7 @@
   /></a>
 </p>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **JavaScript** and its Frameworks
 <!-- - 📫 How to reach me
 **reddybalavignesh9979@gmail.com** -->
 
