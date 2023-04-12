@@ -140,13 +140,13 @@
 </p>
 
 
-<p>
+<!-- <p>
   <img
     align="left"
     src="https://mygithub-readmestats.vercel.app/api/top-langs?username=bala-vignesh-reddy&show_icons=true&locale=en&layout=compact"
     alt="bala-vignesh-reddy"
   />
-</p>
+</p> -->
 
 
 <!-- <p>
@@ -156,13 +156,13 @@
     alt="bala-vignesh-reddy"
   />
 </p> -->
-<p>
+<!-- <p>
   &nbsp;<img
     align="center"
     src="https://mygithub-readmestats.vercel.app/api?username=bala-vignesh-reddy&show_icons=true&theme=radical"
     alt="bala-vignesh-reddy"
   />
-</p>
+</p> -->
 
 <!-- <p>
   <img
