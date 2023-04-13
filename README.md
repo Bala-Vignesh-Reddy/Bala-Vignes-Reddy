@@ -139,7 +139,10 @@
       </a>
 </p>
 
-
+<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=bala-vignesh-reddy&show_icons=true&locale=en" alt="bala-vignesh-reddy" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bala-vignesh-reddy&" alt="bala-vignesh-reddy" />
+</p>
 <!-- <p>
   <img
     align="left"
