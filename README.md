@@ -167,9 +167,9 @@
   />
 </p> -->
 
-<p>
+<!-- <p>
   <img
     align="center"
     src="https://github-readme-streak-stats.herokuapp.com/?user=bala-vignesh-reddy&"
     alt="bala-vignesh-reddy"/>
-</p> 
+</p>  -->
