@@ -1,6 +1,7 @@
 <h1 align="center">Hello 👋, I'm Bala Vignesh Reddy</h1>
 <!-- <h3 align="center">A Tech Enthusiast from India</h3> -->
-<h3 align="center">A Passionate Developer</h3>
+<h3 align="center">A Passionate Developer![image](https://github.com/Bala-Vignesh-Reddy/Bala-Vignesh-Reddy/assets/108361665/c8ce2bae-a742-45d1-b172-581bc5b31efa)
+</h3>
 
 <!-- <p align="left">
   <img
