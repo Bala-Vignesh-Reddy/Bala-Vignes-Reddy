@@ -1,5 +1,6 @@
 <h1 align="center">Hello 👋, I'm Bala Vignesh Reddy</h1>
-<h3 align="center">A Tech Enthusiast from India</h3>
+<!-- <h3 align="center">A Tech Enthusiast from India</h3> -->
+<h3 align="center">A Passionate Developer</h3>
 
 <!-- <p align="left">
   <img
