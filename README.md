@@ -19,9 +19,9 @@
   /></a>
 </p>
 
-<!-- - 🌱 I’m currently learning **JavaScript** and its Frameworks-->
-<!-- - 📫 How to reach me
-**reddybalavignesh9979@gmail.com** -->
+- 🌱 I’m currently learning **JavaScript** and its Frameworks
+- 📫 How to reach me
+**reddybalavignesh9979@gmail.com** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
