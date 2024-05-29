@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋, I'm BalaVignesh</h1>
 <!-- <h3 align="center">A Tech Enthusiast from India</h3> -->
-<h3 align="center">A Passionate Developer<img width=20px height=20px src='https://github.com/Bala-Vignesh-Reddy/Bala-Vignesh-Reddy/assets/108361665/c8ce2bae-a742-45d1-b172-581bc5b31efa'/>
+<!--h3 align="center">A Passionate Developer<img width=20px height=20px src='https://github.com/Bala-Vignesh-Reddy/Bala-Vignesh-Reddy/assets/108361665/c8ce2bae-a742-45d1-b172-581bc5b31efa'/>
 </h3>
 
 <!-- <p align="left">
@@ -9,7 +9,7 @@
     src="https://komarev.com/ghpvc/?username=bala-vignesh-reddy&label=Profile%20views&color=0e75b6&style=flat"
     alt="bala-vignesh-reddy"
   />
-</p> -->
+</p> 
 
 <p align="left">
   <a href="https://twitter.com/" target="blank"
@@ -143,10 +143,10 @@
 </p>
 
 <p>
-<!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=bala-vignesh-reddy&show_icons=true&locale=en" alt="bala-vignesh-reddy" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bala-vignesh-reddy&" alt="bala-vignesh-reddy" /> -->
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=bala-vignesh-reddy&show_icons=true&locale=en" alt="bala-vignesh-reddy" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bala-vignesh-reddy&" alt="bala-vignesh-reddy" /> 
 </p>
-<!-- <p>
+<p>
   <img
     align="left"
     src="https://mygithub-readmestats.vercel.app/api/top-langs?username=bala-vignesh-reddy&show_icons=true&locale=en&layout=compact"
